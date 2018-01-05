@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Cameron Wardzala",
-	"home_page_url": "http://camwardzala.com/",
-	"feed_url": "http://camwardzala.com/feed.json",
+	"home_page_url": "http://www.camwardzala.com/",
+	"feed_url": "http://www.camwardzala.com/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>Starting now I social media detox. No Facebook. No Twitter. Occasional Instagram, and Snapchat.</p>\n",
 			"date_published": "2018-01-05T10:29:00-05:00",
-			"url": "http://camwardzala.com/2018/01/05/starting-now-i.html"
+			"url": "http://www.camwardzala.com/2018/01/05/starting-now-i.html"
 		},
 		
 		{
@@ -20,7 +20,7 @@
 			
 			"content_html": "<p>This is a test post from <a href=\"https://red-sweater.com/marsedit/\">MarsEdit</a></p>\n",
 			"date_published": "2018-01-05T08:29:00-05:00",
-			"url": "http://camwardzala.com/2018/01/05/test-post-from.html"
+			"url": "http://www.camwardzala.com/2018/01/05/test-post-from.html"
 		},
 		
 		{
@@ -28,7 +28,7 @@
 	      	
 			"content_html": "<p>Hello <strong>World</strong></p>\n",
 			"date_published": "2018-01-04T16:08:00-05:00",
-			"url": "http://camwardzala.com/2018/01/04/hello-world.html"
+			"url": "http://www.camwardzala.com/2018/01/04/hello-world.html"
 		},
 		
 		{
@@ -36,7 +36,7 @@
 	      	
 			"content_html": "<p>All hail our savior Santa!</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/13e7fe1226.jpg\" width=\"480\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-25T11:55:00-05:00",
-			"url": "http://camwardzala.com/2017/12/25/all-hail-our.html"
+			"url": "http://www.camwardzala.com/2017/12/25/all-hail-our.html"
 		},
 		
 		{
@@ -44,7 +44,7 @@
 	      	
 			"content_html": "<p>First fire 🔥</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/7efca4c9f7.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-15T18:11:00-05:00",
-			"url": "http://camwardzala.com/2017/12/15/first-fire.html"
+			"url": "http://www.camwardzala.com/2017/12/15/first-fire.html"
 		},
 		
 		{
@@ -52,7 +52,7 @@
 	      	
 			"content_html": "<h1 id=\"findawayholidayparty\">findawayholidayparty</h1>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/99972a1a39.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-14T12:20:00-05:00",
-			"url": "http://camwardzala.com/2017/12/14/findawayholidayparty.html"
+			"url": "http://www.camwardzala.com/2017/12/14/findawayholidayparty.html"
 		},
 		
 		{
@@ -60,7 +60,7 @@
 	      	
 			"content_html": "<p>We now have filtered water!</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/476d5dfa97.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-06T19:09:00-05:00",
-			"url": "http://camwardzala.com/2017/12/06/we-now-have.html"
+			"url": "http://www.camwardzala.com/2017/12/06/we-now-have.html"
 		},
 		
 		{
@@ -68,7 +68,7 @@
 	      	
 			"content_html": "<p>This is for all my PA peeps</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/20c6cd3abf.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-23T14:02:00-05:00",
-			"url": "http://camwardzala.com/2017/11/23/this-is-for.html"
+			"url": "http://www.camwardzala.com/2017/11/23/this-is-for.html"
 		},
 		
 		{
@@ -76,7 +76,7 @@
 	      	
 			"content_html": "<p><img src=\"http://camwardzala.com/uploads/2018/6e16a03f63.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-23T08:14:00-05:00",
-			"url": "http://camwardzala.com/2017/11/23/131423.html"
+			"url": "http://www.camwardzala.com/2017/11/23/131423.html"
 		},
 		
 		{
@@ -84,7 +84,7 @@
 	      	
 			"content_html": "<p><img src=\"http://camwardzala.com/uploads/2018/eb6fd4e55c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-22T21:43:00-05:00",
-			"url": "http://camwardzala.com/2017/11/22/024303.html"
+			"url": "http://www.camwardzala.com/2017/11/22/024303.html"
 		}
 		
 	]
