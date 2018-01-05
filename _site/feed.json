@@ -1,0 +1,27 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Cameron Wardzala",
+	"home_page_url": "http://camwardzala.com/",
+	"feed_url": "http://camwardzala.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/05/test-post-from.html",
+	      	
+			"title": "Test Post from MarsEdit",
+			
+			"content_html": "<p>This is a test post from <a href=\"https://red-sweater.com/marsedit/\">MarsEdit</a></p>\n",
+			"date_published": "2018-01-05T08:29:00-05:00",
+			"url": "http://camwardzala.com/2018/01/05/test-post-from.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/04/hello-world.html",
+	      	
+			"content_html": "<p>Hello <strong>World</strong></p>\n",
+			"date_published": "2018-01-04T16:08:00-05:00",
+			"url": "http://camwardzala.com/2018/01/04/hello-world.html"
+		}
+		
+	]
+}
