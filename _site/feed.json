@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://camwardzala.micro.blog/2018/01/05/starting-now-i.html",
+	      	
+			"content_html": "<p>Starting now I social media detox. No Facebook. No Twitter. Occasional Instagram, and Snapchat.</p>\n",
+			"date_published": "2018-01-05T10:29:00-05:00",
+			"url": "http://camwardzala.com/2018/01/05/starting-now-i.html"
+		},
+		
+		{
 			"id": "http://camwardzala.micro.blog/2018/01/05/test-post-from.html",
 	      	
 			"title": "Test Post from MarsEdit",
@@ -77,14 +85,6 @@
 			"content_html": "<p><img src=\"http://camwardzala.com/uploads/2018/eb6fd4e55c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-22T21:43:00-05:00",
 			"url": "http://camwardzala.com/2017/11/22/024303.html"
-		},
-		
-		{
-			"id": "http://camwardzala.micro.blog/2017/11/23/the-tradition-continues.html",
-	      	
-			"content_html": "<p>The tradition continues. 4th annual night before Thanksgiving watching The Big Lebowski.</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/2021f6d23e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-22T21:41:00-05:00",
-			"url": "http://camwardzala.com/2017/11/22/the-tradition-continues.html"
 		}
 		
 	]
