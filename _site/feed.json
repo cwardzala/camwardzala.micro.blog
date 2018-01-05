@@ -21,6 +21,14 @@
 			"content_html": "<p>Hello <strong>World</strong></p>\n",
 			"date_published": "2018-01-04T16:08:00-05:00",
 			"url": "http://camwardzala.com/2018/01/04/hello-world.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/12/15/first-fire.html",
+	      	
+			"content_html": "<p>First fire 🔥</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/7efca4c9f7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-15T18:11:00-05:00",
+			"url": "http://camwardzala.com/2017/12/15/first-fire.html"
 		}
 		
 	]
