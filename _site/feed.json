@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://camwardzala.micro.blog/2018/02/02/i-jumped-back.html",
+	      	
+			"content_html": "<p>I jumped back to Spotify. Apple Music just wasn’t cutting it. <a href=\"https://open.spotify.com/user/camwardzala?si=UCnSA7gsRjGhx6xvZ-NhEg\">Flollow Me</a> 🎵</p>\n",
+			"date_published": "2018-02-02T09:39:00-05:00",
+			"url": "http://www.camwardzala.com/2018/02/02/i-jumped-back.html"
+		},
+		
+		{
 			"id": "http://camwardzala.micro.blog/2018/02/02/im-starting-to.html",
 	      	
 			"content_html": "<p>I’m starting to not mind all this cold weather. 🔥</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/90c54584d8.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Hello <strong>World</strong></p>\n",
 			"date_published": "2018-01-04T16:08:00-05:00",
 			"url": "http://www.camwardzala.com/2018/01/04/hello-world.html"
-		},
-		
-		{
-			"id": "http://camwardzala.micro.blog/2017/12/25/all-hail-our.html",
-	      	
-			"content_html": "<p>All hail our savior Santa!</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/13e7fe1226.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-25T11:55:00-05:00",
-			"url": "http://www.camwardzala.com/2017/12/25/all-hail-our.html"
 		}
 		
 	]
