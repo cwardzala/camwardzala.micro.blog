@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://camwardzala.micro.blog/2018/02/09/051904.html",
+	      	
+			"content_html": "<p><img src=\"http://www.camwardzala.com/uploads/2018/756e2e7b79.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-09T00:19:00-05:00",
+			"url": "http://www.camwardzala.com/2018/02/09/051904.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/02/09/040648.html",
+	      	
+			"content_html": "<p><img src=\"http://www.camwardzala.com/uploads/2018/5cd0b51d69.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-08T23:06:00-05:00",
+			"url": "http://www.camwardzala.com/2018/02/08/040648.html"
+		},
+		
+		{
 			"id": "http://camwardzala.micro.blog/2018/02/02/i-jumped-back.html",
 	      	
 			"content_html": "<p>I jumped back to Spotify. Apple Music just wasn’t cutting it. <a href=\"https://open.spotify.com/user/camwardzala?si=UCnSA7gsRjGhx6xvZ-NhEg\">Flollow Me</a> 🎵</p>\n",
@@ -67,24 +83,6 @@
 			"content_html": "<p>Starting now I social media detox. No Facebook. No Twitter. Occasional Instagram, and Snapchat.</p>\n",
 			"date_published": "2018-01-05T10:29:00-05:00",
 			"url": "http://www.camwardzala.com/2018/01/05/starting-now-i.html"
-		},
-		
-		{
-			"id": "http://camwardzala.micro.blog/2018/01/05/test-post-from.html",
-	      	
-			"title": "Test Post from MarsEdit",
-			
-			"content_html": "<p>This is a test post from <a href=\"https://red-sweater.com/marsedit/\">MarsEdit</a></p>\n",
-			"date_published": "2018-01-05T08:29:00-05:00",
-			"url": "http://www.camwardzala.com/2018/01/05/test-post-from.html"
-		},
-		
-		{
-			"id": "http://camwardzala.micro.blog/2018/01/04/hello-world.html",
-	      	
-			"content_html": "<p>Hello <strong>World</strong></p>\n",
-			"date_published": "2018-01-04T16:08:00-05:00",
-			"url": "http://www.camwardzala.com/2018/01/04/hello-world.html"
 		}
 		
 	]
