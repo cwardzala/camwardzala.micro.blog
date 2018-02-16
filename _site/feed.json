@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://camwardzala.micro.blog/2018/02/16/did-the-mc.html",
+	      	
+			"content_html": "<p>Did the MC5 ever record a studio album or is everything a live recording?</p>\n",
+			"date_published": "2018-02-16T09:38:00-05:00",
+			"url": "http://www.camwardzala.com/2018/02/16/did-the-mc.html"
+		},
+		
+		{
 			"id": "http://camwardzala.micro.blog/2018/02/15/my-valentine.html",
 	      	
 			"content_html": "<p>My valentine! ♥️💕</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/499339a22f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Working from the bar today</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/320717cc07.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-10T08:47:00-05:00",
 			"url": "http://www.camwardzala.com/2018/01/10/working-from-the.html"
-		},
-		
-		{
-			"id": "http://camwardzala.micro.blog/2018/01/08/man-stuff-complete.html",
-	      	
-			"content_html": "<p>Man stuff complete!</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/737ca7b2fd.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-07T19:42:00-05:00",
-			"url": "http://www.camwardzala.com/2018/01/07/man-stuff-complete.html"
 		}
 		
 	]
