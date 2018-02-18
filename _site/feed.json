@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://camwardzala.micro.blog/2018/02/18/two-coats-done.html",
+	      	
+			"content_html": "<p>Two coats done!</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/eb9c0eb806.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-18T15:14:00-05:00",
+			"url": "http://www.camwardzala.com/2018/02/18/two-coats-done.html"
+		},
+		
+		{
 			"id": "http://camwardzala.micro.blog/2018/02/17/kind-of-need.html",
 	      	
 			"content_html": "<p>Kind of need this album right now</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/807f8e4736.jpg\" width=\"480\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Just in time for #beerfest we got a new sign for the bar</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/3711cfe9b4.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-21T20:16:00-05:00",
 			"url": "http://www.camwardzala.com/2018/01/21/just-in-time.html"
-		},
-		
-		{
-			"id": "http://camwardzala.micro.blog/2018/01/12/lemmy.html",
-	      	
-			"content_html": "<h1 id=\"lemmy\">lemmy</h1>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/450314dfd3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-11T20:14:00-05:00",
-			"url": "http://www.camwardzala.com/2018/01/11/lemmy.html"
 		}
 		
 	]
