@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://camwardzala.micro.blog/2018/02/21/cheese-and-whiskey.html",
+	      	
+			"content_html": "<p>Cheese and whiskey</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/45da5f226e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-20T21:56:00-05:00",
+			"url": "http://www.camwardzala.com/2018/02/20/cheese-and-whiskey.html"
+		},
+		
+		{
 			"id": "http://camwardzala.micro.blog/2018/02/18/two-coats-done.html",
 	      	
 			"content_html": "<p>Two coats done!</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/eb9c0eb806.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -83,6 +91,120 @@
 			"content_html": "<p>Just in time for #beerfest we got a new sign for the bar</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/3711cfe9b4.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-21T20:16:00-05:00",
 			"url": "http://www.camwardzala.com/2018/01/21/just-in-time.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/12/lemmy.html",
+	      	
+			"content_html": "<h1 id=\"lemmy\">lemmy</h1>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/450314dfd3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-11T20:14:00-05:00",
+			"url": "http://www.camwardzala.com/2018/01/11/lemmy.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/10/working-from-the.html",
+	      	
+			"content_html": "<p>Working from the bar today</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/320717cc07.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-10T08:47:00-05:00",
+			"url": "http://www.camwardzala.com/2018/01/10/working-from-the.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/08/man-stuff-complete.html",
+	      	
+			"content_html": "<p>Man stuff complete!</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/737ca7b2fd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-07T19:42:00-05:00",
+			"url": "http://www.camwardzala.com/2018/01/07/man-stuff-complete.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/07/man-stuff.html",
+	      	
+			"content_html": "<p>Man stuff!</p>\n\n<p><img src=\"http://www.camwardzala.com/uploads/2018/4404ffa011.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-07T16:42:00-05:00",
+			"url": "http://www.camwardzala.com/2018/01/07/man-stuff.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/05/starting-now-i.html",
+	      	
+			"content_html": "<p>Starting now I social media detox. No Facebook. No Twitter. Occasional Instagram, and Snapchat.</p>\n",
+			"date_published": "2018-01-05T10:29:00-05:00",
+			"url": "http://www.camwardzala.com/2018/01/05/starting-now-i.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/05/test-post-from.html",
+	      	
+			"title": "Test Post from MarsEdit",
+			
+			"content_html": "<p>This is a test post from <a href=\"https://red-sweater.com/marsedit/\">MarsEdit</a></p>\n",
+			"date_published": "2018-01-05T08:29:00-05:00",
+			"url": "http://www.camwardzala.com/2018/01/05/test-post-from.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2018/01/04/hello-world.html",
+	      	
+			"content_html": "<p>Hello <strong>World</strong></p>\n",
+			"date_published": "2018-01-04T16:08:00-05:00",
+			"url": "http://www.camwardzala.com/2018/01/04/hello-world.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/12/25/all-hail-our.html",
+	      	
+			"content_html": "<p>All hail our savior Santa!</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/13e7fe1226.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-25T11:55:00-05:00",
+			"url": "http://www.camwardzala.com/2017/12/25/all-hail-our.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/12/15/first-fire.html",
+	      	
+			"content_html": "<p>First fire 🔥</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/7efca4c9f7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-15T18:11:00-05:00",
+			"url": "http://www.camwardzala.com/2017/12/15/first-fire.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/12/14/findawayholidayparty.html",
+	      	
+			"content_html": "<h1 id=\"findawayholidayparty\">findawayholidayparty</h1>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/99972a1a39.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-14T12:20:00-05:00",
+			"url": "http://www.camwardzala.com/2017/12/14/findawayholidayparty.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/12/07/we-now-have.html",
+	      	
+			"content_html": "<p>We now have filtered water!</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/476d5dfa97.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-06T19:09:00-05:00",
+			"url": "http://www.camwardzala.com/2017/12/06/we-now-have.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/11/23/this-is-for.html",
+	      	
+			"content_html": "<p>This is for all my PA peeps</p>\n\n<p><img src=\"http://camwardzala.com/uploads/2018/20c6cd3abf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-23T14:02:00-05:00",
+			"url": "http://www.camwardzala.com/2017/11/23/this-is-for.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/11/23/131423.html",
+	      	
+			"content_html": "<p><img src=\"http://camwardzala.com/uploads/2018/6e16a03f63.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-23T08:14:00-05:00",
+			"url": "http://www.camwardzala.com/2017/11/23/131423.html"
+		},
+		
+		{
+			"id": "http://camwardzala.micro.blog/2017/11/23/024303.html",
+	      	
+			"content_html": "<p><img src=\"http://camwardzala.com/uploads/2018/eb6fd4e55c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-22T21:43:00-05:00",
+			"url": "http://www.camwardzala.com/2017/11/22/024303.html"
 		}
 		
 	]
