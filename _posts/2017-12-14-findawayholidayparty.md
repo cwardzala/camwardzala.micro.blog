@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-14 12:20 -0500
 guid: http://camwardzala.micro.blog/2017/12/14/findawayholidayparty.html
 ---
