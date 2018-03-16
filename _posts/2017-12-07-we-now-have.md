@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-06 19:09 -0500
 guid: http://camwardzala.micro.blog/2017/12/07/we-now-have.html
 ---
