@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-24 10:41 -0500
 guid: http://camwardzala.micro.blog/2018/02/24/relaxing-watching-jurrasicworld.html
 ---
