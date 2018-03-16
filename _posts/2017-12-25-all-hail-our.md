@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-25 11:55 -0500
 guid: http://camwardzala.micro.blog/2017/12/25/all-hail-our.html
 ---
