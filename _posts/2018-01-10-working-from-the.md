@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-10 08:47 -0500
 guid: http://camwardzala.micro.blog/2018/01/10/working-from-the.html
 ---
