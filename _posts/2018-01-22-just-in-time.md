@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-21 20:16 -0500
 guid: http://camwardzala.micro.blog/2018/01/22/just-in-time.html
 ---
