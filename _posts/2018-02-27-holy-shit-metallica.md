@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-27 14:06 -0500
 guid: http://camwardzala.micro.blog/2018/02/27/holy-shit-metallica.html
 ---
