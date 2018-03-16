@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-07 19:42 -0500
 guid: http://camwardzala.micro.blog/2018/01/08/man-stuff-complete.html
 ---
