@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-17 12:13 -0500
+date: 2018-02-17 13:13 -0400
 guid: http://camwardzala.micro.blog/2018/02/17/kind-of-need.html
 ---
 Kind of need this album right now
