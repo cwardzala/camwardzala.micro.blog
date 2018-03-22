@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-25 11:55 -0500
+date: 2017-12-25 12:55 -0400
 guid: http://camwardzala.micro.blog/2017/12/25/all-hail-our.html
 ---
 All hail our savior Santa!
