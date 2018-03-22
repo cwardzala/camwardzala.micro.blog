@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-20 21:56 -0500
+date: 2018-02-20 22:56 -0400
 guid: http://camwardzala.micro.blog/2018/02/21/cheese-and-whiskey.html
 ---
 Cheese and whiskey
