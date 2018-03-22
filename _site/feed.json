@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://camwardzala.micro.blog/2018/03/22/the-sword-live.html",
+	      	
+			"content_html": "<p>The Sword Live in Austin - <a href=\"https://youtu.be/kSsVbMRLx6s\">youtu.be/kSsVbMRLx…</a> 🎵</p>\n",
+			"date_published": "2018-03-22T11:05:00-04:00",
+			"url": "http://www.camwardzala.com/2018/03/22/the-sword-live.html"
+		},
+		
+		{
 			"id": "http://camwardzala.micro.blog/2018/03/22/youre-the-same.html",
 	      	
 			"content_html": "<blockquote>\n  <p>You’re the same. Success or failure, highs and lows, they don’t change you. They are outside you. These are indifferents. You stay the same.</p>\n</blockquote>\n",
@@ -195,16 +203,6 @@
 			"content_html": "<p>Starting now I social media detox. No Facebook. No Twitter. Occasional Instagram, and Snapchat.</p>\n",
 			"date_published": "2018-01-05T11:29:00-04:00",
 			"url": "http://www.camwardzala.com/2018/01/05/starting-now-i.html"
-		},
-		
-		{
-			"id": "http://camwardzala.micro.blog/2018/01/05/test-post-from.html",
-	      	
-			"title": "Test Post from MarsEdit",
-			
-			"content_html": "<p>This is a test post from <a href=\"https://red-sweater.com/marsedit/\">MarsEdit</a></p>\n",
-			"date_published": "2018-01-05T09:29:00-04:00",
-			"url": "http://www.camwardzala.com/2018/01/05/test-post-from.html"
 		}
 		
 	]
