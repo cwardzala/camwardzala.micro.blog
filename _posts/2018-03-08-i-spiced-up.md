@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-08 18:23 -0500
+date: 2018-03-08 19:23 -0400
 guid: http://camwardzala.micro.blog/2018/03/08/i-spiced-up.html
 ---
 I spiced up a @hellofresh recipe with some @fieldroast Italian sausage
