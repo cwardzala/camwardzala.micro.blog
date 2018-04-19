@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-07 20:42 -0400
+date: 2018-01-07 20:42:08 -0400
 guid: http://camwardzala.micro.blog/2018/01/08/man-stuff-complete.html
 ---
 Man stuff complete!
