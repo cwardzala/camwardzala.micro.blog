@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-10 09:47 -0400
+date: 2018-01-10 09:47:04 -0400
 guid: http://camwardzala.micro.blog/2018/01/10/working-from-the.html
 ---
 Working from the bar today
