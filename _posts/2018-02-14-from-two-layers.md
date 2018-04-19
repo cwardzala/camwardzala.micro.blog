@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-14 08:00 -0400
+date: 2018-02-14 08:00:27 -0400
 guid: http://camwardzala.micro.blog/2018/02/14/from-two-layers.html
 ---
 From two layers of wallpaper to primed in less than a week!
