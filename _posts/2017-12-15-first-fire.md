@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-15 19:11 -0400
+date: 2017-12-15 19:11:43 -0400
 guid: http://camwardzala.micro.blog/2017/12/15/first-fire.html
 ---
 First fire 🔥
