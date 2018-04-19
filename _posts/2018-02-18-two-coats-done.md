@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-18 16:14 -0400
+date: 2018-02-18 16:14:01 -0400
 guid: http://camwardzala.micro.blog/2018/02/18/two-coats-done.html
 ---
 Two coats done!
